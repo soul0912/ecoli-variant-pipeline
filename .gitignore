@@ -1,0 +1,17 @@
+```text
+## Ignore Data Files
+*.fastq
+*.fq
+*.fasta
+*.fa
+*.fna.gz
+
+## Ignore Alignment Files
+*.sam
+*.bai
+*.bai
+
+## Ignore output
+*.vcf
+
+
